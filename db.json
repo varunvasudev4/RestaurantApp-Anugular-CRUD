@@ -1,0 +1,12 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Rajalakshmi",
+      "email": "raj@hotmail.com",
+      "mobile": "9961232032",
+      "address": "Perumbavoor",
+      "services": "MasalBonda,Coffee,Chai"
+    }
+  ]
+}
